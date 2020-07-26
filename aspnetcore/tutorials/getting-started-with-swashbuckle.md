@@ -47,7 +47,7 @@ Swashbuckle можно добавить одним из описанных ни�
   * Выполните следующую команду:
 
     ```powershell
-    Install-Package Swashbuckle.AspNetCore -Version 5.5.0
+    Install-Package Swashbuckle.AspNetCore -Version 5.5.1
     ```
 
 * В диалоговом окне **Управление пакетами NuGet**
@@ -70,7 +70,7 @@ Swashbuckle можно добавить одним из описанных ни�
 Во **встроенном терминале** выполните следующую команду.
 
 ```dotnetcli
-dotnet add TodoApi.csproj package Swashbuckle.AspNetCore -v 5.5.0
+dotnet add TodoApi.csproj package Swashbuckle.AspNetCore -v 5.5.1
 ```
 
 ### <a name="net-core-cli"></a>[Интерфейс командной строки .NET Core](#tab/netcore-cli)
@@ -78,7 +78,7 @@ dotnet add TodoApi.csproj package Swashbuckle.AspNetCore -v 5.5.0
 Выполните следующую команду:
 
 ```dotnetcli
-dotnet add TodoApi.csproj package Swashbuckle.AspNetCore -v 5.5.0
+dotnet add TodoApi.csproj package Swashbuckle.AspNetCore -v 5.5.1
 ```
 
 ---
